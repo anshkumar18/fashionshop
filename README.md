@@ -4,7 +4,8 @@
  
  
 ### Home page!
-[Screenshot 2025-05-16 174229](https://github.com/user-attachments/assets/d91377c2-2089-445b-932e-6ab70020e784)
+
+![Screenshot 2025-05-18 161934](https://github.com/user-attachments/assets/6e781add-6c64-4d6b-b845-52b50f42f24e)
 
 ![1]()
 
