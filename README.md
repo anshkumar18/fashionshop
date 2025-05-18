@@ -20,8 +20,11 @@
 
 ### Ordered List page
 
+![Screenshot 2025-05-18 174502](https://github.com/user-attachments/assets/4f838485-81d3-4ada-9311-8c01b19e73da)
+
 
 
 
 ### Order confirm page
+![Screenshot 2025-05-18 174611](https://github.com/user-attachments/assets/519b2332-5a96-4a90-8348-232e14647254)
 
